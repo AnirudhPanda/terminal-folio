@@ -1,4 +1,8 @@
 # terminal-folio
+![](https://i.postimg.cc/tJy7ZnLQ/Black-and-Cyan-Futuristic-Neon-Survival-You-Tube-Thumbnail.png)
 Terminal based Portfolio made using [WinBox](https://github.com/nextapps-de/winbox)
+## Blog
+https://dancerwhocodes.hashnode.dev/terminal-themed-portfolio
 <br/>
-[LINK](https://terminalfolio.netlify.app/)
+
+[Live](https://terminalfolio.netlify.app/)
